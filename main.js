@@ -10,6 +10,7 @@ const directories = [
   "controllers",
   "models",
   "middlewares",
+  "public/uploads",
 ];
 
 // Array of filenames to create in the root directory
